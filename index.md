@@ -2,7 +2,6 @@
 title: Lluvia Studios
 ---
 
-# Lluvia Studios
 
 Mobile games for everyone.
 

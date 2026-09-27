@@ -2,7 +2,6 @@
 title: Terms of Service
 ---
 
-# Terms of Service
 
 **Effective date:** 27 September 2026
 
